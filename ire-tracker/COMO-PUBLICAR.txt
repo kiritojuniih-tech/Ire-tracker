@@ -1,0 +1,10 @@
+IRE TRACKER - PUBLICAÇÃO NA INTERNET
+
+1. Crie um repositório privado no GitHub e envie os arquivos da pasta ire-tracker (não envie chaves).
+2. Em uma hospedagem com suporte a Python (ex.: Render), conecte o repositório e crie um Web Service.
+3. Comando de inicialização: python server.py
+4. Configure variável de ambiente RIOT_API_KEY com a sua chave Riot, apenas no painel seguro da hospedagem.
+5. A hospedagem fornecerá uma URL HTTPS pública. Acesse a URL e clique Sincronizar com Riot.
+6. Development API Keys expiram e podem ter restrições; para um serviço público duradouro, solicite a aprovação e chave apropriada à Riot.
+
+AVISOS: o site não foi publicado automaticamente. Não envie a chave ao chat, ao HTML nem ao GitHub. O backend de exemplo não possui autenticação, cache nem limitação própria de requisições; antes de divulgação ampla, implemente essas proteções e revise as políticas da Riot.

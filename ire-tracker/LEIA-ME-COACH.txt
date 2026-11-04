@@ -1,0 +1,6 @@
+IRE TRACKER 1.4 — COACH IA
+
+Abra index.html e clique em Coach Analítico.
+Para estatísticas reais, execute iniciar.bat com a chave Riot configurada no servidor.
+O coach usa regras transparentes e não envia dados a serviços de IA externos.
+Metas são armazenadas no localStorage do navegador.

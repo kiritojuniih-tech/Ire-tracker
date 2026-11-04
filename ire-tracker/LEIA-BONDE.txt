@@ -1,0 +1,2 @@
+Ire Tracker 1.2 — Bonde dos Crias
+Adicione membros em Flex dos Cria. Os Riot IDs ficam no localStorage do navegador. Para ver partidas juntos, sincronize com a Riot pelo servidor Python. A API fornece somente as partidas consultadas, e a busca pode não incluir todas as Flex.

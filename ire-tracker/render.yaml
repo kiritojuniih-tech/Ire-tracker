@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ire-tracker
+    runtime: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python server.py"
+    envVars:
+      - key: RIOT_API_KEY
+        sync: false
+      - key: CACHE_SECONDS
+        value: "300"

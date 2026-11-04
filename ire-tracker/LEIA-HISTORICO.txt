@@ -1,0 +1,6 @@
+IRE TRACKER 1.3 — HISTÓRICO AVANÇADO
+
+Abra index.html para navegar pelo visual. Para dados reais, use iniciar.bat e sua chave Riot no servidor.
+No menu, entre em Histórico de Partidas e filtre por fila, resultado e campeão.
+Detalhes exibem ouro, dano, visão, sentinelas e participação em abates quando retornados pela API.
+A API consulta uma amostra recente; não representa todo o histórico.

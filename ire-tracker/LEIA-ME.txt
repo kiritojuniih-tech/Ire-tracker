@@ -1,0 +1,12 @@
+IRE TRACKER 0.4 - CONEXAO RIOT
+
+1. Instale Python 3 em https://www.python.org/downloads/ (marque Add Python to PATH).
+2. Entre em https://developer.riotgames.com/ e obtenha sua Development API Key.
+3. Clique duas vezes em iniciar.bat e cole a chave na janela do Windows.
+4. O navegador abrira http://localhost:8765. Clique em Sincronizar com Riot.
+5. Nao compartilhe sua chave nem publique o arquivo iniciar.bat com a chave inserida.
+
+A chave fica apenas na memoria do processo local; nao e salva em arquivo.
+Chaves de desenvolvimento expiram periodicamente (geralmente em 24h).
+Para publicar na internet sera preciso hospedar o backend e usar uma chave apropriada.
+Nao abra index.html diretamente para sincronizar; use iniciar.bat.
